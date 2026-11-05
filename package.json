@@ -1,0 +1,16 @@
+{
+  "name": "seams-bitwarden-monorepo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "license": "MIT",
+  "description": "seams-bitwarden workspace: the seam for the Bitwarden Secrets Manager.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-swfactory-oss/seams-bitwarden.git"
+  },
+  "packageManager": "pnpm@10.32.1",
+  "devDependencies": {
+    "@types/node": "^24.0.0"
+  }
+}
